@@ -1,0 +1,1502 @@
+[
+  {
+    "name": "Afganistán",
+    "capital": "Kabul",
+    "phone": "93",
+    "flag": "🇦🇫"
+  },
+  {
+    "name": "Albania",
+    "capital": "Tirana",
+    "phone": "355",
+    "flag": "🇦🇱"
+  },
+  {
+    "name": "Argelia",
+    "capital": "Algiers",
+    "phone": "213",
+    "flag": "🇩🇿"
+  },
+  {
+    "name": "Samoa Americana",
+    "capital": "Pago Pago",
+    "phone": "1",
+    "flag": "🇦🇸"
+  },
+  {
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "phone": "376",
+    "flag": "🇦🇩"
+  },
+  {
+    "name": "Angola",
+    "capital": "Luanda",
+    "phone": "244",
+    "flag": "🇦🇴"
+  },
+  {
+    "name": "Anguilla",
+    "capital": "The Valley",
+    "phone": "1",
+    "flag": "🇦🇮"
+  },
+  {
+    "name": "Antártida",
+    "capital": "",
+    "phone": "672",
+    "flag": "🇦🇶"
+  },
+  {
+    "name": "Antigua y Barbuda",
+    "capital": "Saint John's",
+    "phone": "1",
+    "flag": "🇦🇬"
+  },
+  {
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "phone": "54",
+    "flag": "🇦🇷"
+  },
+  {
+    "name": "Armenia",
+    "capital": "Yerevan",
+    "phone": "374",
+    "flag": "🇦🇲"
+  },
+  {
+    "name": "Aruba",
+    "capital": "Oranjestad",
+    "phone": "297",
+    "flag": "🇦🇼"
+  },
+  {
+    "name": "Australia",
+    "capital": "Canberra",
+    "phone": "61",
+    "flag": "🇦🇺"
+  },
+  {
+    "name": "Austria",
+    "capital": "Vienna",
+    "phone": "43",
+    "flag": "🇦🇹"
+  },
+  {
+    "name": "Azerbaiyán",
+    "capital": "Baku",
+    "phone": "994",
+    "flag": "🇦🇿"
+  },
+  {
+    "name": "Bahamas",
+    "capital": "Nassau",
+    "phone": "1",
+    "flag": "🇧🇸"
+  },
+  {
+    "name": "Bahrein",
+    "capital": "Manama",
+    "phone": "973",
+    "flag": "🇧🇭"
+  },
+  {
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "phone": "880",
+    "flag": "🇧🇩"
+  },
+  {
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "phone": "1",
+    "flag": "🇧🇧"
+  },
+  {
+    "name": "Bielorrusia",
+    "capital": "Minsk",
+    "phone": "375",
+    "flag": "🇧🇾"
+  },
+  {
+    "name": "Bélgica",
+    "capital": "Brussels",
+    "phone": "32",
+    "flag": "🇧🇪"
+  },
+  {
+    "name": "Belice",
+    "capital": "Belmopan",
+    "phone": "501",
+    "flag": "🇧🇿"
+  },
+  {
+    "name": "Benín",
+    "capital": "Porto-Novo",
+    "phone": "229",
+    "flag": "🇧🇯"
+  },
+  {
+    "name": "Bermudas",
+    "capital": "Hamilton",
+    "phone": "1",
+    "flag": "🇧🇲"
+  },
+  {
+    "name": "Bután",
+    "capital": "Thimphu",
+    "phone": "975",
+    "flag": "🇧🇹"
+  },
+  {
+    "name": "Bolivia",
+    "capital": "Sucre",
+    "phone": "591",
+    "flag": "🇧🇴"
+  },
+  {
+    "name": "Bosnia y Herzegovina",
+    "capital": "Sarajevo",
+    "phone": "387",
+    "flag": "🇧🇦"
+  },
+  {
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "phone": "267",
+    "flag": "🇧🇼"
+  },
+  {
+    "name": "Isla Bouvet",
+    "capital": "",
+    "phone": "47",
+    "flag": "🇧🇻"
+  },
+  {
+    "name": "Brasil",
+    "capital": "Brasília",
+    "phone": "55",
+    "flag": "🇧🇷"
+  },
+  {
+    "name": "Territorio Británico del Océano Índico",
+    "capital": "Diego Garcia",
+    "phone": "246",
+    "flag": "🇮🇴"
+  },
+  {
+    "name": "Islas Vírgenes del Reino Unido",
+    "capital": "Road Town",
+    "phone": "1",
+    "flag": "🇻🇬"
+  },
+  {
+    "name": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "phone": "673",
+    "flag": "🇧🇳"
+  },
+  {
+    "name": "Bulgaria",
+    "capital": "Sofia",
+    "phone": "359",
+    "flag": "🇧🇬"
+  },
+  {
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "phone": "226",
+    "flag": "🇧🇫"
+  },
+  {
+    "name": "Burundi",
+    "capital": "Gitega",
+    "phone": "257",
+    "flag": "🇧🇮"
+  },
+  {
+    "name": "Camboya",
+    "capital": "Phnom Penh",
+    "phone": "855",
+    "flag": "🇰🇭"
+  },
+  {
+    "name": "Camerún",
+    "capital": "Yaoundé",
+    "phone": "237",
+    "flag": "🇨🇲"
+  },
+  {
+    "name": "Canadá",
+    "capital": "Ottawa",
+    "phone": "1",
+    "flag": "🇨🇦"
+  },
+  {
+    "name": "Cabo Verde",
+    "capital": "Praia",
+    "phone": "238",
+    "flag": "🇨🇻"
+  },
+  {
+    "name": "Caribe Neerlandés",
+    "capital": "Kralendijk",
+    "phone": "599",
+    "flag": "🇧🇶"
+  },
+  {
+    "name": "Islas Caimán",
+    "capital": "George Town",
+    "phone": "1",
+    "flag": "🇰🇾"
+  },
+  {
+    "name": "República Centroafricana",
+    "capital": "Bangui",
+    "phone": "236",
+    "flag": "🇨🇫"
+  },
+  {
+    "name": "Chad",
+    "capital": "N'Djamena",
+    "phone": "235",
+    "flag": "🇹🇩"
+  },
+  {
+    "name": "Chile",
+    "capital": "Santiago",
+    "phone": "56",
+    "flag": "🇨🇱"
+  },
+  {
+    "name": "China",
+    "capital": "Beijing",
+    "phone": "86",
+    "flag": "🇨🇳"
+  },
+  {
+    "name": "Isla de Navidad",
+    "capital": "Flying Fish Cove",
+    "phone": "61",
+    "flag": "🇨🇽"
+  },
+  {
+    "name": "Islas Cocos o Islas Keeling",
+    "capital": "West Island",
+    "phone": "61",
+    "flag": "🇨🇨"
+  },
+  {
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "phone": "57",
+    "flag": "🇨🇴"
+  },
+  {
+    "name": "Comoras",
+    "capital": "Moroni",
+    "phone": "269",
+    "flag": "🇰🇲"
+  },
+  {
+    "name": "Islas Cook",
+    "capital": "Avarua",
+    "phone": "682",
+    "flag": "🇨🇰"
+  },
+  {
+    "name": "Costa Rica",
+    "capital": "San José",
+    "phone": "506",
+    "flag": "🇨🇷"
+  },
+  {
+    "name": "Croacia",
+    "capital": "Zagreb",
+    "phone": "385",
+    "flag": "🇭🇷"
+  },
+  {
+    "name": "Cuba",
+    "capital": "Havana",
+    "phone": "53",
+    "flag": "🇨🇺"
+  },
+  {
+    "name": "Curazao",
+    "capital": "Willemstad",
+    "phone": "599",
+    "flag": "🇨🇼"
+  },
+  {
+    "name": "Chipre",
+    "capital": "Nicosia",
+    "phone": "357",
+    "flag": "🇨🇾"
+  },
+  {
+    "name": "Chequia",
+    "capital": "Prague",
+    "phone": "420",
+    "flag": "🇨🇿"
+  },
+  {
+    "name": "Congo (Rep. Dem.)",
+    "capital": "Kinshasa",
+    "phone": "243",
+    "flag": "🇨🇩"
+  },
+  {
+    "name": "Dinamarca",
+    "capital": "Copenhagen",
+    "phone": "45",
+    "flag": "🇩🇰"
+  },
+  {
+    "name": "Djibouti",
+    "capital": "Djibouti",
+    "phone": "253",
+    "flag": "🇩🇯"
+  },
+  {
+    "name": "Dominica",
+    "capital": "Roseau",
+    "phone": "1",
+    "flag": "🇩🇲"
+  },
+  {
+    "name": "República Dominicana",
+    "capital": "Santo Domingo",
+    "phone": "1",
+    "flag": "🇩🇴"
+  },
+  {
+    "name": "Ecuador",
+    "capital": "Quito",
+    "phone": "593",
+    "flag": "🇪🇨"
+  },
+  {
+    "name": "Egipto",
+    "capital": "Cairo",
+    "phone": "20",
+    "flag": "🇪🇬"
+  },
+  {
+    "name": "El Salvador",
+    "capital": "San Salvador",
+    "phone": "503",
+    "flag": "🇸🇻"
+  },
+  {
+    "name": "Guinea Ecuatorial",
+    "capital": "Malabo",
+    "phone": "240",
+    "flag": "🇬🇶"
+  },
+  {
+    "name": "Eritrea",
+    "capital": "Asmara",
+    "phone": "291",
+    "flag": "🇪🇷"
+  },
+  {
+    "name": "Estonia",
+    "capital": "Tallinn",
+    "phone": "372",
+    "flag": "🇪🇪"
+  },
+  {
+    "name": "Suazilandia",
+    "capital": "Mbabane",
+    "phone": "268",
+    "flag": "🇸🇿"
+  },
+  {
+    "name": "Etiopía",
+    "capital": "Addis Ababa",
+    "phone": "251",
+    "flag": "🇪🇹"
+  },
+  {
+    "name": "Islas Malvinas",
+    "capital": "Stanley",
+    "phone": "500",
+    "flag": "🇫🇰"
+  },
+  {
+    "name": "Islas Faroe",
+    "capital": "Tórshavn",
+    "phone": "298",
+    "flag": "🇫🇴"
+  },
+  {
+    "name": "Fiyi",
+    "capital": "Suva",
+    "phone": "679",
+    "flag": "🇫🇯"
+  },
+  {
+    "name": "Finlandia",
+    "capital": "Helsinki",
+    "phone": "358",
+    "flag": "🇫🇮"
+  },
+  {
+    "name": "Francia",
+    "capital": "Paris",
+    "phone": "33",
+    "flag": "🇫🇷"
+  },
+  {
+    "name": "Guayana Francesa",
+    "capital": "Cayenne",
+    "phone": "594",
+    "flag": "🇬🇫"
+  },
+  {
+    "name": "Polinesia Francesa",
+    "capital": "Papeetē",
+    "phone": "689",
+    "flag": "🇵🇫"
+  },
+  {
+    "name": "Tierras Australes y Antárticas Francesas",
+    "capital": "Port-aux-Français",
+    "phone": "262",
+    "flag": "🇹🇫"
+  },
+  {
+    "name": "Gabón",
+    "capital": "Libreville",
+    "phone": "241",
+    "flag": "🇬🇦"
+  },
+  {
+    "name": "Gambia",
+    "capital": "Banjul",
+    "phone": "220",
+    "flag": "🇬🇲"
+  },
+  {
+    "name": "Georgia",
+    "capital": "Tbilisi",
+    "phone": "995",
+    "flag": "🇬🇪"
+  },
+  {
+    "name": "Alemania",
+    "capital": "Berlin",
+    "phone": "49",
+    "flag": "🇩🇪"
+  },
+  {
+    "name": "Ghana",
+    "capital": "Accra",
+    "phone": "233",
+    "flag": "🇬🇭"
+  },
+  {
+    "name": "Gibraltar",
+    "capital": "Gibraltar",
+    "phone": "350",
+    "flag": "🇬🇮"
+  },
+  {
+    "name": "Grecia",
+    "capital": "Athens",
+    "phone": "30",
+    "flag": "🇬🇷"
+  },
+  {
+    "name": "Groenlandia",
+    "capital": "Nuuk",
+    "phone": "299",
+    "flag": "🇬🇱"
+  },
+  {
+    "name": "Grenada",
+    "capital": "St. George's",
+    "phone": "1",
+    "flag": "🇬🇩"
+  },
+  {
+    "name": "Guadalupe",
+    "capital": "Basse-Terre",
+    "phone": "590",
+    "flag": "🇬🇵"
+  },
+  {
+    "name": "Guam",
+    "capital": "Hagåtña",
+    "phone": "1",
+    "flag": "🇬🇺"
+  },
+  {
+    "name": "Guatemala",
+    "capital": "Guatemala City",
+    "phone": "502",
+    "flag": "🇬🇹"
+  },
+  {
+    "name": "Guernsey",
+    "capital": "St. Peter Port",
+    "phone": "44",
+    "flag": "🇬🇬"
+  },
+  {
+    "name": "Guinea",
+    "capital": "Conakry",
+    "phone": "224",
+    "flag": "🇬🇳"
+  },
+  {
+    "name": "Guinea-Bisáu",
+    "capital": "Bissau",
+    "phone": "245",
+    "flag": "🇬🇼"
+  },
+  {
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "phone": "592",
+    "flag": "🇬🇾"
+  },
+  {
+    "name": "Haití",
+    "capital": "Port-au-Prince",
+    "phone": "509",
+    "flag": "🇭🇹"
+  },
+  {
+    "name": "Islas Heard y McDonald",
+    "capital": "",
+    "phone": "672",
+    "flag": "🇭🇲"
+  },
+  {
+    "name": "Honduras",
+    "capital": "Tegucigalpa",
+    "phone": "504",
+    "flag": "🇭🇳"
+  },
+  {
+    "name": "Hong Kong",
+    "capital": "City of Victoria",
+    "phone": "852",
+    "flag": "🇭🇰"
+  },
+  {
+    "name": "Hungría",
+    "capital": "Budapest",
+    "phone": "36",
+    "flag": "🇭🇺"
+  },
+  {
+    "name": "Islandia",
+    "capital": "Reykjavík",
+    "phone": "354",
+    "flag": "🇮🇸"
+  },
+  {
+    "name": "India",
+    "capital": "New Delhi",
+    "phone": "91",
+    "flag": "🇮🇳"
+  },
+  {
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "phone": "62",
+    "flag": "🇮🇩"
+  },
+  {
+    "name": "Iran",
+    "capital": "Tehran",
+    "phone": "98",
+    "flag": "🇮🇷"
+  },
+  {
+    "name": "Irak",
+    "capital": "Baghdad",
+    "phone": "964",
+    "flag": "🇮🇶"
+  },
+  {
+    "name": "Irlanda",
+    "capital": "Dublin",
+    "phone": "353",
+    "flag": "🇮🇪"
+  },
+  {
+    "name": "Isla de Man",
+    "capital": "Douglas",
+    "phone": "44",
+    "flag": "🇮🇲"
+  },
+  {
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "phone": "972",
+    "flag": "🇮🇱"
+  },
+  {
+    "name": "Italia",
+    "capital": "Rome",
+    "phone": "39",
+    "flag": "🇮🇹"
+  },
+  {
+    "name": "Costa de Marfil",
+    "capital": "Yamoussoukro",
+    "phone": "225",
+    "flag": "🇨🇮"
+  },
+  {
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "phone": "1",
+    "flag": "🇯🇲"
+  },
+  {
+    "name": "Japón",
+    "capital": "Tokyo",
+    "phone": "81",
+    "flag": "🇯🇵"
+  },
+  {
+    "name": "Jersey",
+    "capital": "Saint Helier",
+    "phone": "44",
+    "flag": "🇯🇪"
+  },
+  {
+    "name": "Jordania",
+    "capital": "Amman",
+    "phone": "962",
+    "flag": "🇯🇴"
+  },
+  {
+    "name": "Kazajistán",
+    "capital": "Astana",
+    "phone": "76",
+    "flag": "🇰🇿"
+  },
+  {
+    "name": "Kenia",
+    "capital": "Nairobi",
+    "phone": "254",
+    "flag": "🇰🇪"
+  },
+  {
+    "name": "Kiribati",
+    "capital": "South Tarawa",
+    "phone": "686",
+    "flag": "🇰🇮"
+  },
+  {
+    "name": "Kosovo",
+    "capital": "Pristina",
+    "phone": "383",
+    "flag": "🇽🇰"
+  },
+  {
+    "name": "Kuwait",
+    "capital": "Kuwait City",
+    "phone": "965",
+    "flag": "🇰🇼"
+  },
+  {
+    "name": "Kirguizistán",
+    "capital": "Bishkek",
+    "phone": "996",
+    "flag": "🇰🇬"
+  },
+  {
+    "name": "Laos",
+    "capital": "Vientiane",
+    "phone": "856",
+    "flag": "🇱🇦"
+  },
+  {
+    "name": "Letonia",
+    "capital": "Riga",
+    "phone": "371",
+    "flag": "🇱🇻"
+  },
+  {
+    "name": "Líbano",
+    "capital": "Beirut",
+    "phone": "961",
+    "flag": "🇱🇧"
+  },
+  {
+    "name": "Lesotho",
+    "capital": "Maseru",
+    "phone": "266",
+    "flag": "🇱🇸"
+  },
+  {
+    "name": "Liberia",
+    "capital": "Monrovia",
+    "phone": "231",
+    "flag": "🇱🇷"
+  },
+  {
+    "name": "Libia",
+    "capital": "Tripoli",
+    "phone": "218",
+    "flag": "🇱🇾"
+  },
+  {
+    "name": "Liechtenstein",
+    "capital": "Vaduz",
+    "phone": "423",
+    "flag": "🇱🇮"
+  },
+  {
+    "name": "Lituania",
+    "capital": "Vilnius",
+    "phone": "370",
+    "flag": "🇱🇹"
+  },
+  {
+    "name": "Luxemburgo",
+    "capital": "Luxembourg",
+    "phone": "352",
+    "flag": "🇱🇺"
+  },
+  {
+    "name": "Macao",
+    "capital": "",
+    "phone": "853",
+    "flag": "🇲🇴"
+  },
+  {
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "phone": "261",
+    "flag": "🇲🇬"
+  },
+  {
+    "name": "Malawi",
+    "capital": "Lilongwe",
+    "phone": "265",
+    "flag": "🇲🇼"
+  },
+  {
+    "name": "Malasia",
+    "capital": "Kuala Lumpur",
+    "phone": "60",
+    "flag": "🇲🇾"
+  },
+  {
+    "name": "Maldivas",
+    "capital": "Malé",
+    "phone": "960",
+    "flag": "🇲🇻"
+  },
+  {
+    "name": "Mali",
+    "capital": "Bamako",
+    "phone": "223",
+    "flag": "🇲🇱"
+  },
+  {
+    "name": "Malta",
+    "capital": "Valletta",
+    "phone": "356",
+    "flag": "🇲🇹"
+  },
+  {
+    "name": "Islas Marshall",
+    "capital": "Majuro",
+    "phone": "692",
+    "flag": "🇲🇭"
+  },
+  {
+    "name": "Martinica",
+    "capital": "Fort-de-France",
+    "phone": "596",
+    "flag": "🇲🇶"
+  },
+  {
+    "name": "Mauritania",
+    "capital": "Nouakchott",
+    "phone": "222",
+    "flag": "🇲🇷"
+  },
+  {
+    "name": "Mauricio",
+    "capital": "Port Louis",
+    "phone": "230",
+    "flag": "🇲🇺"
+  },
+  {
+    "name": "Mayotte",
+    "capital": "Mamoudzou",
+    "phone": "262",
+    "flag": "🇾🇹"
+  },
+  {
+    "name": "México",
+    "capital": "Mexico City",
+    "phone": "52",
+    "flag": "🇲🇽"
+  },
+  {
+    "name": "Micronesia",
+    "capital": "Palikir",
+    "phone": "691",
+    "flag": "🇫🇲"
+  },
+  {
+    "name": "Moldavia",
+    "capital": "Chișinău",
+    "phone": "373",
+    "flag": "🇲🇩"
+  },
+  {
+    "name": "Mónaco",
+    "capital": "Monaco",
+    "phone": "377",
+    "flag": "🇲🇨"
+  },
+  {
+    "name": "Mongolia",
+    "capital": "Ulan Bator",
+    "phone": "976",
+    "flag": "🇲🇳"
+  },
+  {
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "phone": "382",
+    "flag": "🇲🇪"
+  },
+  {
+    "name": "Montserrat",
+    "capital": "Plymouth",
+    "phone": "1",
+    "flag": "🇲🇸"
+  },
+  {
+    "name": "Marruecos",
+    "capital": "Rabat",
+    "phone": "212",
+    "flag": "🇲🇦"
+  },
+  {
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "phone": "258",
+    "flag": "🇲🇿"
+  },
+  {
+    "name": "Myanmar",
+    "capital": "Naypyidaw",
+    "phone": "95",
+    "flag": "🇲🇲"
+  },
+  {
+    "name": "Namibia",
+    "capital": "Windhoek",
+    "phone": "264",
+    "flag": "🇳🇦"
+  },
+  {
+    "name": "Nauru",
+    "capital": "Yaren",
+    "phone": "674",
+    "flag": "🇳🇷"
+  },
+  {
+    "name": "Nepal",
+    "capital": "Kathmandu",
+    "phone": "977",
+    "flag": "🇳🇵"
+  },
+  {
+    "name": "Países Bajos",
+    "capital": "Amsterdam",
+    "phone": "31",
+    "flag": "🇳🇱"
+  },
+  {
+    "name": "Nueva Caledonia",
+    "capital": "Nouméa",
+    "phone": "687",
+    "flag": "🇳🇨"
+  },
+  {
+    "name": "Nueva Zelanda",
+    "capital": "Wellington",
+    "phone": "64",
+    "flag": "🇳🇿"
+  },
+  {
+    "name": "Nicaragua",
+    "capital": "Managua",
+    "phone": "505",
+    "flag": "🇳🇮"
+  },
+  {
+    "name": "Níger",
+    "capital": "Niamey",
+    "phone": "227",
+    "flag": "🇳🇪"
+  },
+  {
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "phone": "234",
+    "flag": "🇳🇬"
+  },
+  {
+    "name": "Niue",
+    "capital": "Alofi",
+    "phone": "683",
+    "flag": "🇳🇺"
+  },
+  {
+    "name": "Isla de Norfolk",
+    "capital": "Kingston",
+    "phone": "672",
+    "flag": "🇳🇫"
+  },
+  {
+    "name": "Corea del Norte",
+    "capital": "Pyongyang",
+    "phone": "850",
+    "flag": "🇰🇵"
+  },
+  {
+    "name": "Macedonia del Norte",
+    "capital": "Skopje",
+    "phone": "389",
+    "flag": "🇲🇰"
+  },
+  {
+    "name": "Islas Marianas del Norte",
+    "capital": "Saipan",
+    "phone": "1",
+    "flag": "🇲🇵"
+  },
+  {
+    "name": "Noruega",
+    "capital": "Oslo",
+    "phone": "47",
+    "flag": "🇳🇴"
+  },
+  {
+    "name": "Omán",
+    "capital": "Muscat",
+    "phone": "968",
+    "flag": "🇴🇲"
+  },
+  {
+    "name": "Pakistán",
+    "capital": "Islamabad",
+    "phone": "92",
+    "flag": "🇵🇰"
+  },
+  {
+    "name": "Palau",
+    "capital": "Ngerulmud",
+    "phone": "680",
+    "flag": "🇵🇼"
+  },
+  {
+    "name": "Palestina",
+    "capital": "Ramallah",
+    "phone": "970",
+    "flag": "🇵🇸"
+  },
+  {
+    "name": "Panamá",
+    "capital": "Panama City",
+    "phone": "507",
+    "flag": "🇵🇦"
+  },
+  {
+    "name": "Papúa Nueva Guinea",
+    "capital": "Port Moresby",
+    "phone": "675",
+    "flag": "🇵🇬"
+  },
+  {
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "phone": "595",
+    "flag": "🇵🇾"
+  },
+  {
+    "name": "Perú",
+    "capital": "Lima",
+    "phone": "51",
+    "flag": "🇵🇪"
+  },
+  {
+    "name": "Filipinas",
+    "capital": "Manila",
+    "phone": "63",
+    "flag": "🇵🇭"
+  },
+  {
+    "name": "Islas Pitcairn",
+    "capital": "Adamstown",
+    "phone": "64",
+    "flag": "🇵🇳"
+  },
+  {
+    "name": "Polonia",
+    "capital": "Warsaw",
+    "phone": "48",
+    "flag": "🇵🇱"
+  },
+  {
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "phone": "351",
+    "flag": "🇵🇹"
+  },
+  {
+    "name": "Puerto Rico",
+    "capital": "San Juan",
+    "phone": "1",
+    "flag": "🇵🇷"
+  },
+  {
+    "name": "Catar",
+    "capital": "Doha",
+    "phone": "974",
+    "flag": "🇶🇦"
+  },
+  {
+    "name": "Congo",
+    "capital": "Brazzaville",
+    "phone": "242",
+    "flag": "🇨🇬"
+  },
+  {
+    "name": "Rumania",
+    "capital": "Bucharest",
+    "phone": "40",
+    "flag": "🇷🇴"
+  },
+  {
+    "name": "Rusia",
+    "capital": "Moscow",
+    "phone": "7",
+    "flag": "🇷🇺"
+  },
+  {
+    "name": "Ruanda",
+    "capital": "Kigali",
+    "phone": "250",
+    "flag": "🇷🇼"
+  },
+  {
+    "name": "Reunión",
+    "capital": "Saint-Denis",
+    "phone": "262",
+    "flag": "🇷🇪"
+  },
+  {
+    "name": "San Bartolomé",
+    "capital": "Gustavia",
+    "phone": "590",
+    "flag": "🇧🇱"
+  },
+  {
+    "name": "Santa Elena, Ascensión y Tristán de Acuña",
+    "capital": "Jamestown",
+    "phone": "290",
+    "flag": "🇸🇭"
+  },
+  {
+    "name": "San Cristóbal y Nieves",
+    "capital": "Basseterre",
+    "phone": "1",
+    "flag": "🇰🇳"
+  },
+  {
+    "name": "Santa Lucía",
+    "capital": "Castries",
+    "phone": "1",
+    "flag": "🇱🇨"
+  },
+  {
+    "name": "Saint Martin",
+    "capital": "Marigot",
+    "phone": "590",
+    "flag": "🇲🇫"
+  },
+  {
+    "name": "San Pedro y Miquelón",
+    "capital": "Saint-Pierre",
+    "phone": "508",
+    "flag": "🇵🇲"
+  },
+  {
+    "name": "San Vicente y Granadinas",
+    "capital": "Kingstown",
+    "phone": "1",
+    "flag": "🇻🇨"
+  },
+  {
+    "name": "Samoa",
+    "capital": "Apia",
+    "phone": "685",
+    "flag": "🇼🇸"
+  },
+  {
+    "name": "San Marino",
+    "capital": "City of San Marino",
+    "phone": "378",
+    "flag": "🇸🇲"
+  },
+  {
+    "name": "Arabia Saudí",
+    "capital": "Riyadh",
+    "phone": "966",
+    "flag": "🇸🇦"
+  },
+  {
+    "name": "Senegal",
+    "capital": "Dakar",
+    "phone": "221",
+    "flag": "🇸🇳"
+  },
+  {
+    "name": "Serbia",
+    "capital": "Belgrade",
+    "phone": "381",
+    "flag": "🇷🇸"
+  },
+  {
+    "name": "Seychelles",
+    "capital": "Victoria",
+    "phone": "248",
+    "flag": "🇸🇨"
+  },
+  {
+    "name": "Sierra Leone",
+    "capital": "Freetown",
+    "phone": "232",
+    "flag": "🇸🇱"
+  },
+  {
+    "name": "Singapur",
+    "capital": "Singapore",
+    "phone": "65",
+    "flag": "🇸🇬"
+  },
+  {
+    "name": "Sint Maarten",
+    "capital": "Philipsburg",
+    "phone": "1",
+    "flag": "🇸🇽"
+  },
+  {
+    "name": "República Eslovaca",
+    "capital": "Bratislava",
+    "phone": "421",
+    "flag": "🇸🇰"
+  },
+  {
+    "name": "Eslovenia",
+    "capital": "Ljubljana",
+    "phone": "386",
+    "flag": "🇸🇮"
+  },
+  {
+    "name": "Islas Salomón",
+    "capital": "Honiara",
+    "phone": "677",
+    "flag": "🇸🇧"
+  },
+  {
+    "name": "Somalia",
+    "capital": "Mogadishu",
+    "phone": "252",
+    "flag": "🇸🇴"
+  },
+  {
+    "name": "Sudáfrica",
+    "capital": "Pretoria",
+    "phone": "27",
+    "flag": "🇿🇦"
+  },
+  {
+    "name": "Islas Georgias del Sur y Sandwich del Sur",
+    "capital": "King Edward Point",
+    "phone": "500",
+    "flag": "🇬🇸"
+  },
+  {
+    "name": "Corea del Sur",
+    "capital": "Seoul",
+    "phone": "82",
+    "flag": "🇰🇷"
+  },
+  {
+    "name": "Sudán del Sur",
+    "capital": "Juba",
+    "phone": "211",
+    "flag": "🇸🇸"
+  },
+  {
+    "name": "España",
+    "capital": "Madrid",
+    "phone": "34",
+    "flag": "🇪🇸"
+  },
+  {
+    "name": "Sri Lanka",
+    "capital": "Sri Jayawardenepura Kotte",
+    "phone": "94",
+    "flag": "🇱🇰"
+  },
+  {
+    "name": "Sudán",
+    "capital": "Khartoum",
+    "phone": "249",
+    "flag": "🇸🇩"
+  },
+  {
+    "name": "Surinam",
+    "capital": "Paramaribo",
+    "phone": "597",
+    "flag": "🇸🇷"
+  },
+  {
+    "name": "Islas Svalbard y Jan Mayen",
+    "capital": "Longyearbyen",
+    "phone": "47",
+    "flag": "🇸🇯"
+  },
+  {
+    "name": "Suecia",
+    "capital": "Stockholm",
+    "phone": "46",
+    "flag": "🇸🇪"
+  },
+  {
+    "name": "Suiza",
+    "capital": "Bern",
+    "phone": "41",
+    "flag": "🇨🇭"
+  },
+  {
+    "name": "Siria",
+    "capital": "Damascus",
+    "phone": "963",
+    "flag": "🇸🇾"
+  },
+  {
+    "name": "Santo Tomé y Príncipe",
+    "capital": "São Tomé",
+    "phone": "239",
+    "flag": "🇸🇹"
+  },
+  {
+    "name": "Taiwán",
+    "capital": "Taipei",
+    "phone": "886",
+    "flag": "🇹🇼"
+  },
+  {
+    "name": "Tayikistán",
+    "capital": "Dushanbe",
+    "phone": "992",
+    "flag": "🇹🇯"
+  },
+  {
+    "name": "Tanzania",
+    "capital": "Dodoma",
+    "phone": "255",
+    "flag": "🇹🇿"
+  },
+  {
+    "name": "Tailandia",
+    "capital": "Bangkok",
+    "phone": "66",
+    "flag": "🇹🇭"
+  },
+  {
+    "name": "Timor Oriental",
+    "capital": "Dili",
+    "phone": "670",
+    "flag": "🇹🇱"
+  },
+  {
+    "name": "Togo",
+    "capital": "Lomé",
+    "phone": "228",
+    "flag": "🇹🇬"
+  },
+  {
+    "name": "Islas Tokelau",
+    "capital": "Fakaofo",
+    "phone": "690",
+    "flag": "🇹🇰"
+  },
+  {
+    "name": "Tonga",
+    "capital": "Nuku'alofa",
+    "phone": "676",
+    "flag": "🇹🇴"
+  },
+  {
+    "name": "Trinidad y Tobago",
+    "capital": "Port of Spain",
+    "phone": "1",
+    "flag": "🇹🇹"
+  },
+  {
+    "name": "Túnez",
+    "capital": "Tunis",
+    "phone": "216",
+    "flag": "🇹🇳"
+  },
+  {
+    "name": "Turquía",
+    "capital": "Ankara",
+    "phone": "90",
+    "flag": "🇹🇷"
+  },
+  {
+    "name": "Turkmenistán",
+    "capital": "Ashgabat",
+    "phone": "993",
+    "flag": "🇹🇲"
+  },
+  {
+    "name": "Islas Turks y Caicos",
+    "capital": "Cockburn Town",
+    "phone": "1",
+    "flag": "🇹🇨"
+  },
+  {
+    "name": "Tuvalu",
+    "capital": "Funafuti",
+    "phone": "688",
+    "flag": "🇹🇻"
+  },
+  {
+    "name": "Uganda",
+    "capital": "Kampala",
+    "phone": "256",
+    "flag": "🇺🇬"
+  },
+  {
+    "name": "Ucrania",
+    "capital": "Kyiv",
+    "phone": "380",
+    "flag": "🇺🇦"
+  },
+  {
+    "name": "Emiratos Árabes Unidos",
+    "capital": "Abu Dhabi",
+    "phone": "971",
+    "flag": "🇦🇪"
+  },
+  {
+    "name": "Reino Unido",
+    "capital": "London",
+    "phone": "44",
+    "flag": "🇬🇧"
+  },
+  {
+    "name": "Estados Unidos",
+    "capital": "Washington, D.C.",
+    "phone": "1",
+    "flag": "🇺🇸"
+  },
+  {
+    "name": "Islas Ultramarinas Menores de Estados Unidos",
+    "capital": "",
+    "phone": "246",
+    "flag": "🇺🇲"
+  },
+  {
+    "name": "Islas Vírgenes de los Estados Unidos",
+    "capital": "Charlotte Amalie",
+    "phone": "1 340",
+    "flag": "🇻🇮"
+  },
+  {
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "phone": "598",
+    "flag": "🇺🇾"
+  },
+  {
+    "name": "Uzbekistán",
+    "capital": "Tashkent",
+    "phone": "998",
+    "flag": "🇺🇿"
+  },
+  {
+    "name": "Vanuatu",
+    "capital": "Port Vila",
+    "phone": "678",
+    "flag": "🇻🇺"
+  },
+  {
+    "name": "Ciudad del Vaticano",
+    "capital": "Vatican City",
+    "phone": "379",
+    "flag": "🇻🇦"
+  },
+  {
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "phone": "58",
+    "flag": "🇻🇪"
+  },
+  {
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "phone": "84",
+    "flag": "🇻🇳"
+  },
+  {
+    "name": "Wallis y Futuna",
+    "capital": "Mata-Utu",
+    "phone": "681",
+    "flag": "🇼🇫"
+  },
+  {
+    "name": "Sahara Occidental",
+    "capital": "El Aaiún",
+    "phone": "212",
+    "flag": "🇪🇭"
+  },
+  {
+    "name": "Yemen",
+    "capital": "Sana'a",
+    "phone": "967",
+    "flag": "🇾🇪"
+  },
+  {
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "phone": "260",
+    "flag": "🇿🇲"
+  },
+  {
+    "name": "Zimbabue",
+    "capital": "Harare",
+    "phone": "263",
+    "flag": "🇿🇼"
+  },
+  {
+    "name": "Alandia",
+    "capital": "Mariehamn",
+    "phone": "358",
+    "flag": "🇦🇽"
+  }
+]

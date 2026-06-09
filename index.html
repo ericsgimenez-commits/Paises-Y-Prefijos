@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Buscador de Países</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app-shell">
+    <section class="hero">
+      <label class="search-box" for="country-search">
+        <span class="search-label">Buscar país, capital o prefijo</span>
+        <input
+          id="country-search"
+          type="search"
+          placeholder="Escribe un país, capital o prefijo..."
+          autocomplete="off"
+        />
+      </label>
+    </section>
+
+    <section class="cards-section">
+      <div id="cards-grid" class="cards-grid" aria-live="polite"></div>
+    </section>
+  </main>
+
+  <footer class="app-footer">Hecho por <span>Eric Serrano</span></footer>
+  <script src="script.js"></script>
+</body>
+</html>
